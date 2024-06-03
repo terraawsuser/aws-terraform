@@ -18,3 +18,9 @@ git log Output a chronologically ordered list of commits
 git checkout <id> Temporarily move back to commit <id>
 git revert <id> Revert the changes of commit <id> (by creating a new commit)
 git reset <id> Undo commit(s) up to commit <id> by deleting commits
+GitHub Actions: Availability & Pricing
+In public repositories, you can use GitHub Actions for free. For private repositories, only a certain amount of monthly usage is available for free - extra usage on top must be paid.
+
+The exact quotas and payment details depend on your GitHub plan, a detailed summary can be found here: https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions
+
+If you can't find an "Actions" tab in your GitHub repository, you can should enable them as described here: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository
